@@ -1,4 +1,6 @@
-#+TITLE: No Conflict Case
+#+TITLE: No Conflict Case is a changed line of text.
+
+This is an added line of text.
 
 ** The new option 'configure --with-mailutils' causes Emacs to rely on
 GNU Mailutils to retrieve email.  It is recommended, and is the
@@ -12,5 +14,4 @@ via insecure channels; to avoid this problem, use either
 GCC to issue warnings without stopping the build.  This behavior is
 now the default in developer builds.  As before, use
 '--disable-gcc-warnings' to suppress GCC's warnings, and
-'--enable-gcc-warnings' to stop the build if GCC issues warnings.
 
